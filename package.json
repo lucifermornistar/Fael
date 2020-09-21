@@ -1,0 +1,21 @@
+{
+  "name": "Fael",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "expre": "^0.1.1",
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.4",
+    "quick.db": "^7.1.1"
+  }
+}
